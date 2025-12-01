@@ -35,7 +35,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # ----------------------- TITRE -----------------------
-st.title("🐙 Analyseur de Profil GitHub — Ultra Moderne")
+st.title("📊 Analyseur de Profil GitHub — Ultra Moderne")
 
 st.markdown("""
 Bienvenue dans **l’Analyseur GitHub**, un outil moderne et professionnel conçu pour examiner un profil GitHub en un seul clic.  
