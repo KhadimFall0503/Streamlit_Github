@@ -2,7 +2,7 @@ import streamlit as st
 import requests
 
 # ----------------------- CONFIGURATION PAGE -----------------------
-st.set_page_config(page_title="Analyseur GitHub", page_icon="🐙", layout="wide")
+st.set_page_config(page_title="Analyseur GitHub", page_icon="📊", layout="wide")
 
 # ----------------------- STYLE CSS PERSONNALISÉ -------------------
 st.markdown("""
